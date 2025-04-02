@@ -1,0 +1,39 @@
+body {background-color: rgb(213, 197, 19);}
+
+#container {
+    background-color: antiquewhite;
+    width: 1200px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+}
+nav {
+    text-align: center;
+    margin: 20px 0;
+    background-color: cornsilk;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav li a {
+
+}
+
+h1, h2, h3, footer {
+    text-align: center;
+}
